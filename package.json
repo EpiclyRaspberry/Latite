@@ -1,0 +1,16 @@
+{
+  "name": "latite",
+  "version": "1.0.0",
+  "description": "![image](https://github.com/user-attachments/assets/0862d42f-ac15-4bd6-9395-536ce27d7ed4)",
+  "main": "webhook.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node webhook.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  }
+}
